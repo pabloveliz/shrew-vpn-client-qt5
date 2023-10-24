@@ -1,4 +1,5 @@
 # shrew-vpn-client-qt5
+A portable VPN client for Linux - Qt5 port of GUI only,
 forked from https://aur.archlinux.org/packages/shrew-vpn-client-qt5
 
 # Install
@@ -12,7 +13,11 @@ makepkg -si
 ```
 
 # Run
-
 - qikea - VPN Access Manager Application ( optional )
 - ikec - VPN Client Connect Application
 - qikec - VPN Client Connect Application ( optional )
+
+# References
+Check	https://github.com/ben-foxmoore/shrew-qt5
+
+
